@@ -1,5 +1,5 @@
 {
-  "name": "@airgap/beacon-transport-walletconnect",
+  "name": "@sparkdreamnft/beacon-transport-walletconnect",
   "version": "4.0.13",
   "description": "This package contains methods to facilitate communication over the WalletConnect network.",
   "author": "Papers AG",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airgap-it/beacon-sdk.git"
+    "url": "git+https://github.com/sparkdream/beacon-sdk.git"
   },
   "scripts": {
     "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
@@ -34,9 +34,9 @@
     "url": "https://github.com/airgap-it/beacon-sdk/issues"
   },
   "dependencies": {
-    "@airgap/beacon-core": "4.0.13",
-    "@airgap/beacon-types": "4.0.13",
-    "@airgap/beacon-utils": "4.0.13",
+    "@sparkdreamnft/beacon-core": "4.0.13",
+    "@sparkdreamnft/beacon-types": "4.0.13",
+    "@sparkdreamnft/beacon-utils": "4.0.13",
     "@walletconnect/sign-client": "2.7.0"
   }
 }

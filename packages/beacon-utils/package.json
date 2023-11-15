@@ -1,5 +1,5 @@
 {
-  "name": "@airgap/beacon-utils",
+  "name": "@sparkdreamnft/beacon-utils",
   "version": "4.0.13",
   "description": "This package contains utility functions that are used throughout the beacon-sdk",
   "author": "Andreas Gassmann <a.gassmann@papers.ch>",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airgap-it/beacon-sdk.git"
+    "url": "git+https://github.com/sparkdream/beacon-sdk.git"
   },
   "scripts": {
     "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",

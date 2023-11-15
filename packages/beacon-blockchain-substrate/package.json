@@ -1,7 +1,7 @@
 {
-  "name": "@airgap/beacon-blockchain-substrate",
+  "name": "@sparkdreamnft/beacon-blockchain-substrate",
   "version": "4.0.13",
-  "description": "This package adds support for `substrate` based blockchains. It can be used in combination with the `@airgap/beacon-dapp` or `@airgap/beacon-wallet` packages.",
+  "description": "This package adds support for `substrate` based blockchains. It can be used in combination with the `@sparkdreamnft/beacon-dapp` or `@sparkdreamnft/beacon-wallet` packages.",
   "author": "Andreas Gassmann <a.gassmann@papers.ch>",
   "homepage": "https://walletbeacon.io",
   "license": "ISC",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airgap-it/beacon-sdk.git"
+    "url": "git+https://github.com/sparkdream/beacon-sdk.git"
   },
   "scripts": {
     "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
@@ -34,7 +34,7 @@
     "url": "https://github.com/airgap-it/beacon-sdk/issues"
   },
   "dependencies": {
-    "@airgap/beacon-types": "4.0.13",
-    "@airgap/beacon-ui": "4.0.13"
+    "@sparkdreamnft/beacon-types": "4.0.13",
+    "@sparkdreamnft/beacon-ui": "4.0.13"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@airgap/beacon-core",
+  "name": "@sparkdreamnft/beacon-core",
   "version": "4.0.13",
   "description": "This package contains internal methods that are used by both the dApp and wallet client.",
   "author": "Andreas Gassmann <a.gassmann@papers.ch>",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airgap-it/beacon-sdk.git"
+    "url": "git+https://github.com/sparkdream/beacon-sdk.git"
   },
   "scripts": {
     "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
@@ -34,8 +34,8 @@
     "url": "https://github.com/airgap-it/beacon-sdk/issues"
   },
   "dependencies": {
-    "@airgap/beacon-types": "4.0.13",
-    "@airgap/beacon-utils": "4.0.13",
+    "@sparkdreamnft/beacon-types": "4.0.13",
+    "@sparkdreamnft/beacon-utils": "4.0.13",
     "@stablelib/ed25519": "^1.0.3",
     "@stablelib/nacl": "^1.0.4",
     "@stablelib/utf8": "^1.0.1",

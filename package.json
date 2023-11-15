@@ -1,5 +1,5 @@
 {
-  "name": "@airgap/beacon-sdk",
+  "name": "@sparkdreamnft/beacon-sdk",
   "description": "The beacon-sdk allows you to easily connect DApps with Wallets through P2P communication or a chrome extension.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -21,7 +21,7 @@
   "homepage": "https://www.airgap.it",
   "repository": {
     "type": "git",
-    "url": "https://github.com/airgap-it/beacon-sdk"
+    "url": "https://github.com/sparkdream/beacon-sdk"
   },
   "engines": {
     "npm": ">=7.0.0",
@@ -60,18 +60,18 @@
   },
   "author": "Papers AG <contact@papers.ch> (https://papers.ch)",
   "dependencies": {
-    "@airgap/beacon-blockchain-substrate": "file:packages/beacon-blockchain-substrate",
-    "@airgap/beacon-blockchain-tezos": "file:packages/beacon-blockchain-tezos",
-    "@airgap/beacon-blockchain-tezos-sapling": "file:packages/beacon-blockchain-tezos-sapling",
-    "@airgap/beacon-core": "file:packages/beacon-core",
-    "@airgap/beacon-dapp": "file:packages/beacon-dapp",
-    "@airgap/beacon-transport-matrix": "file:packages/beacon-transport-matrix",
-    "@airgap/beacon-transport-postmessage": "file:packages/beacon-transport-postmessage",
-    "@airgap/beacon-transport-walletconnect": "file:packages/beacon-transport-walletconnect",
-    "@airgap/beacon-types": "file:packages/beacon-types",
-    "@airgap/beacon-ui": "file:packages/beacon-ui",
-    "@airgap/beacon-utils": "file:packages/beacon-utils",
-    "@airgap/beacon-wallet": "file:packages/beacon-wallet",
+    "@sparkdreamnft/beacon-blockchain-substrate": "file:packages/beacon-blockchain-substrate",
+    "@sparkdreamnft/beacon-blockchain-tezos": "file:packages/beacon-blockchain-tezos",
+    "@sparkdreamnft/beacon-blockchain-tezos-sapling": "file:packages/beacon-blockchain-tezos-sapling",
+    "@sparkdreamnft/beacon-core": "file:packages/beacon-core",
+    "@sparkdreamnft/beacon-dapp": "file:packages/beacon-dapp",
+    "@sparkdreamnft/beacon-transport-matrix": "file:packages/beacon-transport-matrix",
+    "@sparkdreamnft/beacon-transport-postmessage": "file:packages/beacon-transport-postmessage",
+    "@sparkdreamnft/beacon-transport-walletconnect": "file:packages/beacon-transport-walletconnect",
+    "@sparkdreamnft/beacon-types": "file:packages/beacon-types",
+    "@sparkdreamnft/beacon-ui": "file:packages/beacon-ui",
+    "@sparkdreamnft/beacon-utils": "file:packages/beacon-utils",
+    "@sparkdreamnft/beacon-wallet": "file:packages/beacon-wallet",
     "@walletconnect/sign-client": "2.7.0",
     "@walletconnect/types": "2.7.0",
     "@walletconnect/utils": "2.7.0",

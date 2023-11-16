@@ -1,6 +1,6 @@
 {
   "name": "@sparkdreamnft/beacon-sdk",
-  "version": "4.0.14",
+  "version": "4.0.15",
   "description": "The `beacon-sdk` simplifies and abstracts the communication between dApps and wallets over different transport layers.",
   "author": "Andreas Gassmann <a.gassmann@papers.ch>",
   "homepage": "https://walletbeacon.io",
@@ -35,15 +35,15 @@
     "url": "https://github.com/airgap-it/beacon-sdk/issues"
   },
   "dependencies": {
-    "@sparkdreamnft/beacon-blockchain-substrate": "^4.0.14",
-    "@sparkdreamnft/beacon-blockchain-tezos": "^4.0.14",
-    "@sparkdreamnft/beacon-core": "^4.0.14",
-    "@sparkdreamnft/beacon-dapp": "^4.0.14",
-    "@sparkdreamnft/beacon-transport-matrix": "^4.0.14",
-    "@sparkdreamnft/beacon-transport-postmessage": "^4.0.14",
-    "@sparkdreamnft/beacon-types": "^4.0.14",
-    "@sparkdreamnft/beacon-ui": "^4.0.14",
-    "@sparkdreamnft/beacon-utils": "^4.0.14",
-    "@sparkdreamnft/beacon-wallet": "^4.0.14"
+    "@sparkdreamnft/beacon-blockchain-substrate": "4.0.15",
+    "@sparkdreamnft/beacon-blockchain-tezos": "4.0.15",
+    "@sparkdreamnft/beacon-core": "4.0.15",
+    "@sparkdreamnft/beacon-dapp": "4.0.15",
+    "@sparkdreamnft/beacon-transport-matrix": "4.0.15",
+    "@sparkdreamnft/beacon-transport-postmessage": "4.0.15",
+    "@sparkdreamnft/beacon-types": "4.0.15",
+    "@sparkdreamnft/beacon-ui": "4.0.15",
+    "@sparkdreamnft/beacon-utils": "4.0.15",
+    "@sparkdreamnft/beacon-wallet": "4.0.15"
   }
 }

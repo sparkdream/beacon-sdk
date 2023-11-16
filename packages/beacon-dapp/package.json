@@ -1,6 +1,6 @@
 {
   "name": "@sparkdreamnft/beacon-dapp",
-  "version": "4.0.13",
+  "version": "4.0.14",
   "description": "Use this package on your dApp to instanciate a DAppClient object and communicate to wallets.",
   "author": "Andreas Gassmann <a.gassmann@papers.ch>",
   "homepage": "https://walletbeacon.io",
@@ -35,10 +35,10 @@
     "url": "https://github.com/airgap-it/beacon-sdk/issues"
   },
   "dependencies": {
-    "@sparkdreamnft/beacon-core": "4.0.13",
-    "@sparkdreamnft/beacon-transport-matrix": "4.0.13",
-    "@sparkdreamnft/beacon-transport-postmessage": "4.0.13",
-    "@sparkdreamnft/beacon-transport-walletconnect": "4.0.13",
-    "@sparkdreamnft/beacon-ui": "4.0.13"
+    "@sparkdreamnft/beacon-core": "^4.0.14",
+    "@sparkdreamnft/beacon-transport-matrix": "^4.0.14",
+    "@sparkdreamnft/beacon-transport-postmessage": "^4.0.14",
+    "@sparkdreamnft/beacon-transport-walletconnect": "^4.0.14",
+    "@sparkdreamnft/beacon-ui": "^4.0.14"
   }
 }

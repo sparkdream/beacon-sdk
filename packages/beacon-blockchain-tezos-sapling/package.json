@@ -1,6 +1,6 @@
 {
   "name": "@sparkdreamnft/beacon-blockchain-tezos-sapling",
-  "version": "4.0.13",
+  "version": "4.0.14",
   "description": "This package adds support for `tezos-sapling`, the sapling integration on the Tezos blockchain. It can be used in combination with the `@sparkdreamnft/beacon-dapp` or `@sparkdreamnft/beacon-wallet` packages.",
   "author": "Andreas Gassmann <a.gassmann@papers.ch>",
   "homepage": "https://walletbeacon.io",
@@ -34,7 +34,7 @@
     "url": "https://github.com/airgap-it/beacon-sdk/issues"
   },
   "dependencies": {
-    "@sparkdreamnft/beacon-types": "4.0.13",
-    "@sparkdreamnft/beacon-ui": "4.0.13"
+    "@sparkdreamnft/beacon-types": "^4.0.14",
+    "@sparkdreamnft/beacon-ui": "^4.0.14"
   }
 }

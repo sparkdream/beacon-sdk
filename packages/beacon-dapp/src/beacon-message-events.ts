@@ -1,5 +1,5 @@
 import { BeaconEvent } from './events'
-import { BeaconMessageType } from '@airgap/beacon-types'
+import { BeaconMessageType } from '@sparkdreamnft/beacon-types'
 
 export const messageEvents: {
   [key in BeaconMessageType]: { sent: BeaconEvent; success: BeaconEvent; error: BeaconEvent }

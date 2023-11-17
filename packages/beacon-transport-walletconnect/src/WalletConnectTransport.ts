@@ -9,8 +9,8 @@ import {
   StorageKey,
   WalletConnectPairingRequest,
   NetworkType
-} from '@airgap/beacon-types'
-import { Transport, PeerManager } from '@airgap/beacon-core'
+} from '@sparkdreamnft/beacon-types'
+import { Transport, PeerManager } from '@sparkdreamnft/beacon-core'
 import { SignClientTypes } from '@walletconnect/types'
 
 /**

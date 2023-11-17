@@ -4,7 +4,7 @@ import {
   PermissionScope,
   AppMetadata,
   Network
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 
 /**
  * @category Message

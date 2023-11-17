@@ -66,7 +66,7 @@ import {
   // EncryptPayloadResponseOutput,
   // EncryptPayloadResponse,
   // EncryptPayloadRequest
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 import {
   Client,
   Transport,
@@ -78,24 +78,24 @@ import {
   getSenderId,
   Logger,
   ClientEvents
-} from '@airgap/beacon-core'
+} from '@sparkdreamnft/beacon-core'
 import {
   getAddressFromPublicKey,
   ExposedPromise,
   generateGUID,
   toHex,
   prefixPublicKey
-} from '@airgap/beacon-utils'
+} from '@sparkdreamnft/beacon-utils'
 import { messageEvents } from '../beacon-message-events'
 import { BlockExplorer } from '../utils/block-explorer'
 import { TzktBlockExplorer } from '../utils/tzkt-blockexplorer'
 
 import { DAppClientOptions } from './DAppClientOptions'
-import { BeaconEventHandler } from '@airgap/beacon-dapp'
+import { BeaconEventHandler } from '@sparkdreamnft/beacon-dapp'
 import { DappPostMessageTransport } from '../transports/DappPostMessageTransport'
 import { DappP2PTransport } from '../transports/DappP2PTransport'
 import { DappWalletConnectTransport } from '../transports/DappWalletConnectTransport'
-import { PostMessageTransport } from '@airgap/beacon-transport-postmessage'
+import { PostMessageTransport } from '@sparkdreamnft/beacon-transport-postmessage'
 import {
   AlertButton,
   closeToast,
@@ -109,8 +109,8 @@ import {
   getExtensionList,
   getWebList,
   getiOSList
-} from '@airgap/beacon-ui'
-import { signMessage } from '@airgap/beacon-utils'
+} from '@sparkdreamnft/beacon-ui'
+import { signMessage } from '@sparkdreamnft/beacon-utils'
 
 const logger = new Logger('DAppClient')
 

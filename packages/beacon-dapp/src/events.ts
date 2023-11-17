@@ -7,7 +7,7 @@ import {
   closeToast,
   openToast,
   ToastAction
-} from '@airgap/beacon-dapp'
+} from '@sparkdreamnft/beacon-dapp'
 import {
   BeaconErrorType,
   ExtendedPostMessagePairingResponse,
@@ -28,7 +28,7 @@ import {
   ExtendedWalletConnectPairingResponse,
   WalletConnectPairingRequest,
   AnalyticsInterface
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 import {
   UnknownBeaconError,
   BeaconError,
@@ -36,9 +36,9 @@ import {
   Logger
   // EncryptPayloadResponseOutput,
   // EncryptionOperation
-} from '@airgap/beacon-core'
+} from '@sparkdreamnft/beacon-core'
 import { shortenString } from './utils/shorten-string'
-import { isMobile } from '@airgap/beacon-ui'
+import { isMobile } from '@sparkdreamnft/beacon-ui'
 
 const logger = new Logger('BeaconEvents')
 

@@ -1,4 +1,4 @@
-import { NodeDistributions, Storage } from '@airgap/beacon-types'
+import { NodeDistributions, Storage } from '@sparkdreamnft/beacon-types'
 
 /**
  * @category Wallet

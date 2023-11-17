@@ -1,7 +1,7 @@
-export * from '@airgap/beacon-core'
-export * from '@airgap/beacon-transport-matrix'
-export * from '@airgap/beacon-types'
-export * from '@airgap/beacon-utils'
+export * from '@sparkdreamnft/beacon-core'
+export * from '@sparkdreamnft/beacon-transport-matrix'
+export * from '@sparkdreamnft/beacon-types'
+export * from '@sparkdreamnft/beacon-utils'
 
 import { WalletClient } from './client/WalletClient'
 import { WalletClientOptions } from './client/WalletClientOptions'

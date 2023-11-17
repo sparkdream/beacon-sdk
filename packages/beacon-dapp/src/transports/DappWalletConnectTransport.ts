@@ -4,9 +4,9 @@ import {
   ExtendedWalletConnectPairingResponse,
   TransportStatus,
   NetworkType
-} from '@airgap/beacon-types'
-import { Logger } from '@airgap/beacon-core'
-import { WalletConnectTransport } from '@airgap/beacon-transport-walletconnect'
+} from '@sparkdreamnft/beacon-types'
+import { Logger } from '@sparkdreamnft/beacon-core'
+import { WalletConnectTransport } from '@sparkdreamnft/beacon-transport-walletconnect'
 import { KeyPair } from '@stablelib/ed25519'
 import { SignClientTypes } from '@walletconnect/types'
 

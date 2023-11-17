@@ -1,4 +1,4 @@
-import { Storage, StorageKey, AccountInfo, BeaconMessage } from '@airgap/beacon-types'
+import { Storage, StorageKey, AccountInfo, BeaconMessage } from '@sparkdreamnft/beacon-types'
 import { StorageManager } from './StorageManager'
 import { PermissionValidator } from './PermissionValidator'
 

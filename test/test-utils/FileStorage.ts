@@ -1,5 +1,5 @@
 import { readFile, writeFile } from 'fs'
-import { defaultValues, Storage, StorageKey, StorageKeyReturnType } from '@airgap/beacon-types'
+import { defaultValues, Storage, StorageKey, StorageKeyReturnType } from '@sparkdreamnft/beacon-types'
 
 const file: string = './storage.json'
 

@@ -5,7 +5,7 @@ import {
   // EncryptPayloadResponse,
   BroadcastResponse,
   AccountInfo
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 
 /**
  * @category DApp

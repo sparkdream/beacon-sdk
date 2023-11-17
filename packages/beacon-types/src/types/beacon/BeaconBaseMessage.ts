@@ -1,4 +1,4 @@
-import { BeaconMessageType } from '@airgap/beacon-types'
+import { BeaconMessageType } from '@sparkdreamnft/beacon-types'
 
 /**
  * @category Message

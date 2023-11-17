@@ -1,4 +1,4 @@
-import { Optional } from '@airgap/beacon-types'
+import { Optional } from '@sparkdreamnft/beacon-types'
 import {
   PermissionResponse,
   OperationResponse,
@@ -7,7 +7,7 @@ import {
   BroadcastResponse,
   AcknowledgeResponse,
   ErrorResponse
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 
 /**
  * @category Wallet

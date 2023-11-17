@@ -9,7 +9,7 @@ import 'mocha'
 // chai.use(chaiAsPromised)
 const expect = chai.expect
 
-describe('@airgap/beacon-ui', () => {
+describe('@sparkdreamnft/beacon-ui', () => {
   it('should create a tzip 10 URI', () => {
     const link = getTzip10Link('airgap-wallet://', 'PAYLOAD')
 

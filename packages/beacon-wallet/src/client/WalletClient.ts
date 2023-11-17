@@ -8,9 +8,9 @@ import {
   getSenderId,
   Logger,
   NOTIFICATION_ORACLE_URL
-} from '@airgap/beacon-core'
+} from '@sparkdreamnft/beacon-core'
 
-import { ExposedPromise, toHex } from '@airgap/beacon-utils'
+import { ExposedPromise, toHex } from '@sparkdreamnft/beacon-utils'
 
 import {
   ConnectionContext,
@@ -32,7 +32,7 @@ import {
   BeaconBaseMessage,
   StorageKey,
   PushToken
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 import { WalletClientOptions } from './WalletClientOptions'
 import { WalletP2PTransport } from '../transports/WalletP2PTransport'
 import { IncomingRequestInterceptor } from '../interceptors/IncomingRequestInterceptor'

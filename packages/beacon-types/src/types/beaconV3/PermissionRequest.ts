@@ -8,7 +8,7 @@ import {
   DesktopApp,
   WebApp,
   App
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 
 export interface ResponseInput {
   request: BlockchainMessage

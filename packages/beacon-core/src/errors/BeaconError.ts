@@ -13,7 +13,7 @@ import {
   BroadcastBeaconError
   // EncryptionTypeNotSupportedBeaconError
 } from '..'
-import { BeaconErrorType } from '@airgap/beacon-types'
+import { BeaconErrorType } from '@sparkdreamnft/beacon-types'
 
 /**
  * @category Error

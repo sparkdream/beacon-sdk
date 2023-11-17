@@ -13,8 +13,8 @@ import {
   PermissionRequestV3,
   BeaconBaseMessage
   // EncryptPayloadRequestOutput
-} from '@airgap/beacon-types'
-import { AppMetadataManager, Logger } from '@airgap/beacon-core'
+} from '@sparkdreamnft/beacon-types'
+import { AppMetadataManager, Logger } from '@sparkdreamnft/beacon-core'
 
 const logger = new Logger('IncomingRequestInterceptor')
 

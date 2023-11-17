@@ -1,4 +1,4 @@
-import { ExposedPromise, ExposedPromiseStatus, generateGUID } from '@airgap/beacon-utils'
+import { ExposedPromise, ExposedPromiseStatus, generateGUID } from '@sparkdreamnft/beacon-utils'
 import {
   ConnectionContext,
   TransportType,
@@ -12,7 +12,7 @@ import {
   BeaconRequestMessage,
   BeaconMessageWrapper,
   NodeDistributions
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 import { Serializer, Transport } from '../..'
 import { BeaconClient } from '../beacon-client/BeaconClient'
 import { AccountManager } from '../../managers/AccountManager'

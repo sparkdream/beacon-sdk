@@ -21,11 +21,11 @@ import {
   TezosOperationType,
   TransportStatus,
   ExtendedP2PPairingRequest
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 
 import { MockTransport } from '../../../test/test-utils/MockTransport'
 import { availableTransports } from '../src/utils/available-transports'
-import { ExposedPromise } from '@airgap/beacon-utils'
+import { ExposedPromise } from '@sparkdreamnft/beacon-utils'
 import {
   windowRef,
   Logger,
@@ -34,10 +34,10 @@ import {
   getSenderId,
   AccountManager,
   Transport
-} from '@airgap/beacon-core'
+} from '@sparkdreamnft/beacon-core'
 
 import { DAppClient, BeaconEvent } from '../src'
-import { PostMessageTransport } from '@airgap/beacon-transport-postmessage'
+import { PostMessageTransport } from '@sparkdreamnft/beacon-transport-postmessage'
 import { DappPostMessageTransport } from '../src/transports/DappPostMessageTransport'
 
 // use chai-as-promised plugin

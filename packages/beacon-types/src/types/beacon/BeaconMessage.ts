@@ -13,7 +13,7 @@ import {
   DisconnectMessage,
   ErrorResponse,
   ChangeAccountRequest
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 
 /**
  * @internalapi

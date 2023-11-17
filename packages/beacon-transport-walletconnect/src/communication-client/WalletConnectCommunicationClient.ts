@@ -1,4 +1,4 @@
-import { BEACON_VERSION, CommunicationClient, Serializer, ClientEvents } from '@airgap/beacon-core'
+import { BEACON_VERSION, CommunicationClient, Serializer, ClientEvents } from '@sparkdreamnft/beacon-core'
 import { SignClient } from '@walletconnect/sign-client'
 import Client from '@walletconnect/sign-client'
 import { ProposalTypes, SessionTypes, SignClientTypes } from '@walletconnect/types'
@@ -35,8 +35,8 @@ import {
   SignPayloadRequest,
   SignPayloadResponse,
   SignPayloadResponseInput
-} from '@airgap/beacon-types'
-import { generateGUID, getAddressFromPublicKey } from '@airgap/beacon-utils'
+} from '@sparkdreamnft/beacon-types'
+import { generateGUID, getAddressFromPublicKey } from '@sparkdreamnft/beacon-utils'
 
 const TEZOS_PLACEHOLDER = 'tezos'
 

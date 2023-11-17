@@ -1,10 +1,10 @@
-# `@airgap/beacon-blockchain-tezos-sapling`
+# `@sparkdreamnft/beacon-blockchain-tezos-sapling`
 
-This package is part of the `@airgap/beacon-sdk` project. [Read more](https://github.com/airgap-it/beacon-sdk)
+This package is part of the `@sparkdreamnft/beacon-sdk` project. [Read more](https://github.com/airgap-it/beacon-sdk)
 
 ## Introduction
 
-This package adds support for `tezos-sapling`, the sapling integration on the Tezos blockchain. It can be used in combination with the `@airgap/beacon-dapp` or `@airgap/beacon-wallet` packages.
+This package adds support for `tezos-sapling`, the sapling integration on the Tezos blockchain. It can be used in combination with the `@sparkdreamnft/beacon-dapp` or `@sparkdreamnft/beacon-wallet` packages.
 
 ## Usage
 

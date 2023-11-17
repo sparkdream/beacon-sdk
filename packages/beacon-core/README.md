@@ -1,6 +1,6 @@
-# `@airgap/beacon-core`
+# `@sparkdreamnft/beacon-core`
 
-This package is part of the `@airgap/beacon-sdk` project. [Read more](https://github.com/airgap-it/beacon-sdk)
+This package is part of the `@sparkdreamnft/beacon-sdk` project. [Read more](https://github.com/airgap-it/beacon-sdk)
 
 ## Introduction
 

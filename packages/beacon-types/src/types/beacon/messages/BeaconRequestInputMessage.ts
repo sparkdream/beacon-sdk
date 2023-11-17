@@ -1,11 +1,11 @@
-import { Optional } from '@airgap/beacon-types'
+import { Optional } from '@sparkdreamnft/beacon-types'
 import {
   PermissionRequest,
   OperationRequest,
   SignPayloadRequest,
   // EncryptPayloadRequest,
   BroadcastRequest
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 
 /**
  * @internalapi

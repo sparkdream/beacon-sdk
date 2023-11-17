@@ -1,5 +1,5 @@
-import { Storage, StorageKey, P2PPairingRequest, NodeDistributions } from '@airgap/beacon-types'
-import { P2PTransport } from '@airgap/beacon-transport-matrix'
+import { Storage, StorageKey, P2PPairingRequest, NodeDistributions } from '@sparkdreamnft/beacon-types'
+import { P2PTransport } from '@sparkdreamnft/beacon-transport-matrix'
 import { KeyPair } from '@stablelib/ed25519'
 
 // const logger = new Logger('DappP2PTransport')

@@ -1,4 +1,4 @@
-import { Optional } from '@airgap/beacon-types'
+import { Optional } from '@sparkdreamnft/beacon-types'
 import {
   AppMetadata,
   PermissionRequest,
@@ -6,7 +6,7 @@ import {
   SignPayloadRequest,
   // EncryptPayloadRequest,
   BroadcastRequest
-} from '@airgap/beacon-types'
+} from '@sparkdreamnft/beacon-types'
 
 /**
  * @category Wallet

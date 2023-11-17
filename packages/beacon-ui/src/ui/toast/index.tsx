@@ -1,7 +1,7 @@
 import { createSignal } from 'solid-js'
 import { isServer, render } from 'solid-js/web'
-import { WalletInfo } from '@airgap/beacon-types'
-import { generateGUID } from '@airgap/beacon-utils'
+import { WalletInfo } from '@sparkdreamnft/beacon-types'
+import { generateGUID } from '@sparkdreamnft/beacon-utils'
 
 import Toast from '../../components/toast'
 

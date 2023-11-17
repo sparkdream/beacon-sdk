@@ -4,7 +4,7 @@
     "baseUrl": ".",
     "outDir": "./dist/esm",
     "paths": {
-      "@airgap/beacon-core": ["./src"]
+      "@sparkdreamnft/beacon-core": ["./src"]
     }
   },
   "include": ["./src"]

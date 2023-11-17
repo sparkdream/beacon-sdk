@@ -5,12 +5,12 @@ import * as sinon from 'sinon'
 
 import { DappPostMessageTransport } from '../src/transports/DappPostMessageTransport'
 
-import { TransportStatus, Origin, ExtendedPostMessagePairingResponse } from '@airgap/beacon-types'
-import { getKeypairFromSeed } from '@airgap/beacon-utils'
-import { BEACON_VERSION, PeerManager, LocalStorage } from '@airgap/beacon-core'
+import { TransportStatus, Origin, ExtendedPostMessagePairingResponse } from '@sparkdreamnft/beacon-types'
+import { getKeypairFromSeed } from '@sparkdreamnft/beacon-utils'
+import { BEACON_VERSION, PeerManager, LocalStorage } from '@sparkdreamnft/beacon-core'
 import { clearMockWindowState, windowRef } from '../../beacon-core/src/MockWindow'
-import { PostMessageTransport } from '@airgap/beacon-transport-postmessage'
-import { PostMessageClient } from '@airgap/beacon-transport-postmessage/src/PostMessageClient'
+import { PostMessageTransport } from '@sparkdreamnft/beacon-transport-postmessage'
+import { PostMessageClient } from '@sparkdreamnft/beacon-transport-postmessage/src/PostMessageClient'
 
 // use chai-as-promised plugin
 chai.use(chaiAsPromised)

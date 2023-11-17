@@ -1,4 +1,4 @@
-import { ColorMode } from '@airgap/beacon-types'
+import { ColorMode } from '@sparkdreamnft/beacon-types'
 
 let colorMode: ColorMode = ColorMode.LIGHT
 

@@ -4,9 +4,9 @@ import {
   TransportStatus,
   ExtendedP2PPairingResponse,
   NodeDistributions
-} from '@airgap/beacon-types'
-import { Logger } from '@airgap/beacon-core'
-import { P2PTransport } from '@airgap/beacon-transport-matrix'
+} from '@sparkdreamnft/beacon-types'
+import { Logger } from '@sparkdreamnft/beacon-core'
+import { P2PTransport } from '@sparkdreamnft/beacon-transport-matrix'
 import { KeyPair } from '@stablelib/ed25519'
 
 const logger = new Logger('DappP2PTransport')

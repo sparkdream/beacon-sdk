@@ -3,7 +3,7 @@ import {
   getAccountIdentifier,
   Logger,
   PermissionManager
-} from '@airgap/beacon-core'
+} from '@sparkdreamnft/beacon-core'
 import {
   ErrorResponse,
   BeaconMessage,
@@ -23,8 +23,8 @@ import {
   PermissionResponseV3,
   BeaconBaseMessage
   // EncryptPayloadResponse
-} from '@airgap/beacon-types'
-import { getAddressFromPublicKey } from '@airgap/beacon-utils'
+} from '@sparkdreamnft/beacon-types'
+import { getAddressFromPublicKey } from '@sparkdreamnft/beacon-utils'
 
 interface OutgoingResponseInterceptorOptions {
   senderId: string

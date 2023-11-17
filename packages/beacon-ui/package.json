@@ -1,6 +1,6 @@
 {
   "name": "@sparkdreamnft/beacon-ui",
-  "version": "4.0.15",
+  "version": "4.0.16",
   "description": "This package contains the UI part (alerts and toasts) of the Beacon SDK.",
   "author": "Andreas Gassmann <a.gassmann@papers.ch>",
   "homepage": "https://walletbeacon.io",
@@ -34,10 +34,10 @@
     "url": "https://github.com/airgap-it/beacon-sdk/issues"
   },
   "dependencies": {
-    "@sparkdreamnft/beacon-core": "4.0.15",
-    "@sparkdreamnft/beacon-transport-postmessage": "4.0.15",
-    "@sparkdreamnft/beacon-types": "4.0.15",
-    "@sparkdreamnft/beacon-utils": "4.0.15",
+    "@sparkdreamnft/beacon-core": "4.0.16",
+    "@sparkdreamnft/beacon-transport-postmessage": "4.0.16",
+    "@sparkdreamnft/beacon-types": "4.0.16",
+    "@sparkdreamnft/beacon-utils": "4.0.16",
     "qrcode-svg": "^1.1.0",
     "solid-js": "^1.6.6"
   },

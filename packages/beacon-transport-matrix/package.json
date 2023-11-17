@@ -1,6 +1,6 @@
 {
   "name": "@sparkdreamnft/beacon-transport-matrix",
-  "version": "4.0.15",
+  "version": "4.0.16",
   "description": "This package contains methods to facilitate communication over the Beacon network, a decentralised P2P network that is based on the matrix protocol.",
   "author": "Andreas Gassmann <a.gassmann@papers.ch>",
   "homepage": "https://walletbeacon.io",
@@ -34,8 +34,8 @@
     "url": "https://github.com/airgap-it/beacon-sdk/issues"
   },
   "dependencies": {
-    "@sparkdreamnft/beacon-core": "4.0.15",
-    "@sparkdreamnft/beacon-utils": "4.0.15",
+    "@sparkdreamnft/beacon-core": "4.0.16",
+    "@sparkdreamnft/beacon-utils": "4.0.16",
     "axios": "1.6.1"
   }
 }

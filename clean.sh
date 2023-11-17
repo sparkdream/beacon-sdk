@@ -9,6 +9,7 @@
 # rm -rf ./packages/beacon-sdk/dist
 # rm -rf ./packages/beacon-transport-matrix/dist
 # rm -rf ./packages/beacon-transport-postmessage/dist
+# rm -rf ./packages/beacon-transport-walletconnect/dist
 # rm -rf ./packages/beacon-types/dist
 # rm -rf ./packages/beacon-ui/dist
 # rm -rf ./packages/beacon-utils/dist
@@ -22,6 +23,7 @@ rm -rf ./packages/beacon-dapp/node_modules
 rm -rf ./packages/beacon-sdk/node_modules
 rm -rf ./packages/beacon-transport-matrix/node_modules
 rm -rf ./packages/beacon-transport-postmessage/node_modules
+rm -rf ./packages/beacon-transport-walletconnect/node_modules
 rm -rf ./packages/beacon-types/node_modules
 rm -rf ./packages/beacon-ui/node_modules
 rm -rf ./packages/beacon-utils/node_modules
